@@ -1,0 +1,28 @@
+name: pauli
+favicon: null
+layout_spectrum: 0.5216579739935696
+typography_spectrum: 0.42503385385498405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.49877236201427877
+  lightness: 0.8325382582843304
+  saturation: 0.7394740858580917
+  rhythmicContrast: 0.899021961260587
+purpose: []
